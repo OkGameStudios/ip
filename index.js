@@ -23,6 +23,6 @@ router.get('/', (req,res) => {
 app.get('/', (req, res) => {
     res.render('index.ejs')
 })
-// async..await is not allowed in global scope, must use a 
+// async..await is not allowed in global scope, must use 
 
  
